@@ -1,7 +1,7 @@
 #    test.py
 #
-#    Written by Benson Yeh, 3/10/2021, Aces Electronics Co., Ltd.
-#    Require chrome , Internet connect , 192.168.26.2 Authority  
+#    Written by Benson Yeh, 3/10/2021, 
+#    Require chrome , Internet connect , 192.168.xx.x Authority  
 #
 #-------------------------------------------------------------------
 
